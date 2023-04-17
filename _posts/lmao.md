@@ -1,6 +1,7 @@
 ---
 title: "Edge Case: Nested and Mixed Lists"
-permalink: /posts/
+permalink: /single/
+published: true
 categories:
   - Chill out
 tags:
