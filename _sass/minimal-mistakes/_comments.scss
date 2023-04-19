@@ -1,4 +1,8 @@
 .myComments {
-  border: 5px outset red;
-  text-align: center;
+  display: inline; /* the default for span */
+  width: 100px;
+  height: 100px;
+  padding: 5px;
+  border: 1px solid blue;
+  background-color: yellow; 
 }
